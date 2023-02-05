@@ -1,0 +1,20 @@
+table,
+th,
+td {
+  border: 1px solid purple;
+}
+#tablediv {
+    margin: 30px;
+}
+caption {
+    font-size: 30px;
+    font-weight: bold;
+}
+table {
+    text-align: center;
+    font-size: 22px;
+}
+#thead, tbody > tr :first-child {
+    background-color: #0e0139;
+    color: lavender;
+}

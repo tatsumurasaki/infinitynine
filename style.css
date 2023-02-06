@@ -21,7 +21,8 @@ span {
 }
 #zerodiv,
 #onediv,
-#ninediv {
+#ninediv,
+#tendiv {
   display: flex;
   justify-content: center;
 }
@@ -45,9 +46,6 @@ table,
 th,
 td {
   border: 1px solid purple;
-}
-#fbicon {
-  width: 30px !important;
 }
 footer {
   background-color: #0e0139;
